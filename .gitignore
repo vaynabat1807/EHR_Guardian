@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+data/ground_truth/
+
+.venv/
+venv/
+.env
+.vscode/
